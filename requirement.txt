@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+spacy
+nltk
+torch
+langchain-core
+langchain-community
+langchain-groq 
+streamlit
+fastapi
+python-dotenv
